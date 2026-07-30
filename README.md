@@ -13,19 +13,15 @@ Construindo interfaces modernas, responsivas e focadas na experiência do usuár
 </p>
 
 <p align="center">
-
 <a href="https://www.linkedin.com/in/risanches/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
 <a href="mailto:richard.sanches14@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-
 <a href="https://github.com/Sanchessb">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
 </p>
 
 <p align="center">
@@ -37,13 +33,9 @@ Construindo interfaces modernas, responsivas e focadas na experiência do usuár
 # 🚀 Sobre mim
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-
 💻 Desenvolvedor Front-End apaixonado por criar interfaces modernas, responsivas e intuitivas.
-
 ⚛️ Desenvolvendo aplicações com **React.js**, **JavaScript**, **HTML5** e **CSS3**.
-
 ☁️ Formado pelo programa **AWS re/Start**, com conhecimentos em Cloud Computing.
-
 🚀 Em busca da minha primeira oportunidade como **Desenvolvedor Front-End**.
 
 ---
@@ -51,51 +43,50 @@ Construindo interfaces modernas, responsivas e focadas na experiência do usuár
 # 💻 Tecnologias
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,aws,figma,npm&theme=dark"/>
-
 </p>
 
 ---
 
 # 📌 Projetos
 
+### 💉 Caderneta+
+✔ React.js
+✔ Vite
+✔ JavaScript ES6+
+✔ Componentização
+✔ Gerenciamento de estado (useState, useMemo)
+✔ Deploy automatizado com GitHub Actions
+
+Aplicação de acompanhamento de vacinação infantil, com cálculo automático de doses atrasadas, próximas e aplicadas, organização por componentes reutilizáveis e deploy contínuo via CI/CD.
+
+🔗 **Projeto**
+https://sanchessb.github.io/caderneta-mais/
+
+---
+
 ### 📄 Currículo Digital Interativo
-
 ✔ HTML5
-
 ✔ CSS3
-
 ✔ JavaScript
-
 ✔ Responsivo
-
 ✔ Animações
-
 ✔ Formulário funcional
 
 🔗 **Projeto**
-
 https://sanchessb.github.io/Meu-curr-culo-digital/
 
 ---
 
 ### 🛒 ElectroShop
-
 ✔ JavaScript
-
 ✔ Fetch API
-
 ✔ JSON
-
 ✔ LocalStorage
-
 ✔ Carrinho de Compras
-
 ✔ Pesquisa Dinâmica
 
 🔗 **Projeto**
-
 https://sanchessb.github.io/electroshop/index.html
 
 ---
@@ -103,17 +94,12 @@ https://sanchessb.github.io/electroshop/index.html
 # 📊 GitHub Analytics
 
 <p align="center">
-
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sanchessb&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanchessb&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=Sanchessb&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
@@ -121,9 +107,7 @@ https://sanchessb.github.io/electroshop/index.html
 # 📈 Activity Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanchessb&theme=tokyo-night&hide_border=true"/>
-
 </p>
 
 ---
@@ -131,9 +115,7 @@ https://sanchessb.github.io/electroshop/index.html
 # 🏆 Conquistas
 
 <p align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=Sanchessb&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
-
 </p>
 
 ---
@@ -152,27 +134,20 @@ https://sanchessb.github.io/electroshop/index.html
 # 📫 Contato
 
 <p align="center">
-
 <a href="https://www.linkedin.com/in/risanches/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:richard.sanches14@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 </p>
 
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=Sanchessb&label=Profile+Views&color=2563EB&style=for-the-badge"/>
-
 </p>
 
 ---
 
 <p align="center">
-
 ⭐ Obrigado pela visita! Fique à vontade para conhecer meus projetos e conectar-se comigo.
-
 </p>
